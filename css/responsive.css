@@ -1,0 +1,96 @@
+@media all and (max-width:1040px){
+    html.no-js body div.section-part5 div.middle-area div.testimonial div.identity div.testimonial-man.owl-carousel.owl-theme.owl-loaded.owl-drag {
+        display: block;
+        width: 39%;
+        z-index: 1;
+        margin: auto;
+    }
+}
+
+@media all and (max-width: 1040px){
+    .header .mobile-menu .bar i{
+        display: block;
+    }
+    .middle-header .col-lg-8.col-md-7{
+        display: none;
+    }
+.middle-header .col-lg-2.col-md-3{
+    margin:auto;
+}
+.middle-header .col-lg-2.col-md-3 a  h3 {
+	padding: 10px 9px;
+	font-size: 15px;
+	background: #F04770;
+	color: #fff;
+	border-radius: 3px;
+	text-align: center;
+	width: 148px;
+}
+html.no-js body div.section-part5 div.middle-area div.testimonial div.identity div.testimonial-man.owl-carousel.owl-theme.owl-loaded.owl-drag {
+	display: block;
+	width: 42%;
+	z-index: 1;
+	margin: auto;
+}
+.section-part5 .middle-area .testimonial .item {
+	background: #ffff;
+	width: 350px;
+	height: 174px;
+	text-align: center;
+}
+}
+@media all and ( max-width: 896px){
+    html.no-js body div.section-part5 div.middle-area div.testimonial div.identity div.testimonial-man.owl-carousel.owl-theme.owl-loaded.owl-drag {
+        display: block;
+        width: 49%;
+        z-index: 1;
+        margin: auto;
+    }
+    .section-part1 h2 {
+        font-size: 28px;
+        color: #3A3A3A;
+        width: 301px;
+    }
+}
+@media all and ( max-width: 780px){
+    .middle-header .col-lg-2.col-md-3 {
+        margin-right: 15rem;
+    }
+    html.no-js body div.section-part5 div.middle-area div.testimonial div.identity div.testimonial-man.owl-carousel.owl-theme.owl-loaded.owl-drag {
+        display: block;
+        width: 109%;
+        z-index: 1;
+        margin: auto;
+    }
+    html.no-js body div.section-part5 div.middle-area div.testimonial div.identity div.testimonial-man.owl-carousel.owl-theme.owl-loaded.owl-drag div.owl-dots{
+        margin-left: 7rem;
+        margin-top: -6px;
+        text-align: left;
+    }
+    html.no-js body div.section-part5 div.middle-area div.row div.col-md-6.offset-3{
+        margin-left: 0%;
+    }
+}
+@media all and(max-width:767px){
+    html.no-js body div.section-part1 div.middle-area div.row div.col-lg-6.col-md-6 div.img.uk-scrollspy-inview.uk-animation-slide-right img{
+        margin-top: 22px;
+    }
+ 
+}
+@media all and (max-width:567px){
+    html.no-js body div.footer-part div.middle-area div.row .col-sm-4{
+     width: 34%;
+   }
+   .footer-part ul.ul li {
+	line-height: 27px;
+	display: inline-block;
+}
+.footer-part ul.ul li a{
+    padding: 10px 20px;
+}
+  .footer-part .middle-area ul {
+	padding-left: 1px;
+	display: inline-block;
+	width: 313px;
+}
+}
